@@ -1,0 +1,7 @@
+1. Setup global instance axios
+https://axios-http.com/docs/intro
+2. Setup React Query the latest version
+https://tanstack.com/query/v5/docs/framework/react/overview#motivation
+3. Use env variables instead of hardcoded urls
+4. use shadcn compo
+https://github.com/birobirobiro/awesome-shadcn-ui?tab=readme-ov-file

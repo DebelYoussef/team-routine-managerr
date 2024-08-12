@@ -1,0 +1,1 @@
+ALTER TABLE "routine" ADD COLUMN "email" boolean NOT NULL;

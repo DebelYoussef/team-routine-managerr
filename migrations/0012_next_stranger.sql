@@ -1,0 +1,1 @@
+ALTER TABLE "response" ADD COLUMN "date" timestamp NOT NULL;

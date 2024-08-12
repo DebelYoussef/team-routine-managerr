@@ -1,0 +1,28 @@
+@tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+
+body,html{
+  @apply w-full h-full font-poppins bg-white ;
+  font-family: Poppins,sans-serif;
+}
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.btn{
+  @apply
+  mr-5 
+  font-medium 
+  bg-customred 
+  p-3 
+  text-white 
+  rounded-xl 
+  text-lg 
+  font-['Poppins'] 
+  transition 
+  duration-300 
+  hover:bg-red-600 
+  active:scale-95
+}
